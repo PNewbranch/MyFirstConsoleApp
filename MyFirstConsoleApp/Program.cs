@@ -10,7 +10,7 @@ namespace MyFirstConsoleApp
             Console.Write("Hallå");
             Console.Write("Hej");
             Console.Write("Hej");
-            Console.Write("hej");
+            Console.Write("Då");
         }
     }
 }
